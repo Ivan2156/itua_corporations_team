@@ -1,0 +1,11 @@
+/* Зробити кнопку Instagram фіолетовою */
+.btn-instagram {
+    background-color: purple;
+    color: white; /* колір тексту білий, щоб він був видимий на фоні */
+}
+
+/* Зробити кнопку Twitter червоною */
+.btn-twitter {
+    background-color: red;
+    color: white; /* колір тексту білий, щоб він був видимий на фоні */
+}
